@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'sellnow/assessment',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'c49781ff4d0c2a81e2f1abbbd91bde651f4d9478',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'sellnow/assessment' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'c49781ff4d0c2a81e2f1abbbd91bde651f4d9478',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
